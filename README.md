@@ -1,6 +1,6 @@
 Hi! 👋
 
-- 👩‍🎓 Studied language and culture or Russia 🇷🇺
+- 👩‍🎓 Studied language and culture or Russia
 - 👩‍💼 Work as Team Leader of Customer Care 2nd level team (software support)
 - 👍 Know basic Java, XML, SQL and some othee IT-related stuff
 - 📖 Learn Kotlin
